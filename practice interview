@@ -1,0 +1,17 @@
+list_1= [10, 'Chelsea',20]
+
+print(list_1[0])
+
+print(list_1)
+
+tup_1 = (10,'Chelsea',20)
+
+print(tup_1[1])
+
+x =111
+
+y = 'I am second last alphabet'
+
+dict={'country':'India','Capital':'Delhi','PM':'Modi'}
+print(dict (contains ['India']))
+
